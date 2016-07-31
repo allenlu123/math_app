@@ -1,4 +1,4 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 /**
  * Created by Allen on 6/12/2016.

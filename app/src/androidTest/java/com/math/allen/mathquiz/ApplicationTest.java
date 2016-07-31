@@ -1,4 +1,4 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

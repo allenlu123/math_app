@@ -1,8 +1,6 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 import android.app.Activity;
-
-import java.util.Random;
 
 /**
  * Created by Allen on 6/12/2016.

@@ -1,4 +1,4 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 /**
  * Created by Allen on 6/12/2016.
@@ -13,7 +13,6 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 
 public class MainActivity extends Activity {

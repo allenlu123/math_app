@@ -1,4 +1,4 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -7,15 +7,11 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.CountDownTimer;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
 
 public class QuestionActivity extends Activity {

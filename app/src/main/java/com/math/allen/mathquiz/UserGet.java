@@ -1,4 +1,4 @@
-package com.example.allen.mathquiz;
+package com.math.allen.mathquiz;
 
 /**
  * Created by Allen on 6/19/2016.
@@ -8,7 +8,6 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.widget.Toast;
 
 public class UserGet extends SQLiteOpenHelper{
     private static final int DATABASE_VERSION = 1;
